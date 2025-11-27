@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "nombre": "Rifle AEG M4",
+    "descripcion": "Réplica eléctrica M4 con cuerpo metálico.",
+    "marca": "G&G Armament",
+    "sistema": ["eléctrico"],
+    "precio": 220.0,
+    "stock": 15,
+    "color": "negro",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.01.46.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Rifle AEG AK47",
+    "descripcion": "Clásico AK47 para partidas de asalto.",
+    "marca": "CYMA",
+    "sistema": ["eléctrico"],
+    "precio": 200.0,
+    "stock": 10,
+    "color": "madera",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.04.40.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Rifle DMR SR25",
+    "descripcion": "Rifle de tirador designado de largo alcance.",
+    "marca": "A&K",
+    "sistema": ["eléctrico"],
+    "precio": 320.0,
+    "stock": 6,
+    "color": "negro",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.06.11.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Rifle Híbrido M16",
+    "descripcion": "Puede funcionar con gas o electricidad.",
+    "marca": "Tokyo Marui",
+    "sistema": ["eléctrico", "gas"],
+    "precio": 310.0,
+    "stock": 5,
+    "color": "negro",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.07.43.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Pistola GBB Glock 17",
+    "descripcion": "Pistola a gas blowback con corredera metálica.",
+    "marca": "KJW",
+    "sistema": ["gas"],
+    "precio": 150.0,
+    "stock": 10,
+    "color": "tna",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.09.03.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Pistola 1911",
+    "descripcion": "Clásica 1911 para secundarias.",
+    "marca": "WE",
+    "sistema": ["gas"],
+    "precio": 140.0,
+    "stock": 8,
+    "color": "negro",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.12.41.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Pistola CZ P-09",
+    "descripcion": "Pistola semiautomática moderna.",
+    "marca": "ASG",
+    "sistema": ["gas"],
+    "precio": 135.0,
+    "stock": 9,
+    "color": "arena",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.13.52.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Revolver CO2 357",
+    "descripcion": "Revolver de CO2 para partidas CQB.",
+    "marca": "Dan Wesson",
+    "sistema": ["CO2"],
+    "precio": 160.0,
+    "stock": 4,
+    "color": "cromo",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.16.19.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Francotirador L96",
+    "descripcion": "Rifle de cerrojo para tiradores de precisión.",
+    "marca": "Well",
+    "sistema": ["muelle"],
+    "precio": 180.0,
+    "stock": 7,
+    "color": "verde",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.17.40.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Francotirador M24",
+    "descripcion": "Rifle M24 para rol sniper.",
+    "marca": "Jing Gong",
+    "sistema": ["muelle"],
+    "precio": 190.0,
+    "stock": 6,
+    "color": "negro",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.20.49.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Escopeta Pump Action",
+    "descripcion": "Escopeta manual para interiores.",
+    "marca": "Tokyo Marui",
+    "sistema": ["muelle"],
+    "precio": 130.0,
+    "stock": 12,
+    "color": "negro",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.19.13.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Escopeta Tri-shot",
+    "descripcion": "Dispara 3 bbs por disparo.",
+    "marca": "CYMA",
+    "sistema": ["muelle"],
+    "precio": 110.0,
+    "stock": 10,
+    "color": "tan",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.22.18.png"
+  },
+  {
+    "id": 13,
+    "nombre": "Chaleco táctico plate carrier",
+    "descripcion": "Chaleco con placas simuladas y MOLLE.",
+    "marca": "Emerson",
+    "sistema": [],
+    "precio": 80.0,
+    "stock": 20,
+    "color": "coyote",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.23.25.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Chaleco chest rig ligero",
+    "descripcion": "Ideal para partidas rápidas.",
+    "marca": "Invader Gear",
+    "sistema": [],
+    "precio": 60.0,
+    "stock": 18,
+    "color": "multicam",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.24.25.png"
+  },
+  {
+    "id": 15,
+    "nombre": "Uniforme completo Multicam",
+    "descripcion": "Chaqueta + pantalón camuflaje Multicam.",
+    "marca": "Emerson",
+    "sistema": [],
+    "precio": 95.0,
+    "stock": 14,
+    "color": "multicam",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.25.42.png"
+  },
+  {
+    "id": 16,
+    "nombre": "Uniforme Woodland",
+    "descripcion": "Uniforme clásico woodland.",
+    "marca": "MFH",
+    "sistema": [],
+    "precio": 70.0,
+    "stock": 16,
+    "color": "woodland",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.26.39.png"
+  },
+  {
+    "id": 17,
+    "nombre": "Casco FAST",
+    "descripcion": "Casco táctico tipo FAST.",
+    "marca": "FMA",
+    "sistema": [],
+    "precio": 65.0,
+    "stock": 13,
+    "color": "negro",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.27.52.png"
+  },
+  {
+    "id": 18,
+    "nombre": "Gafas de protección",
+    "descripcion": "Gafas homologadas para airsoft.",
+    "marca": "Bolle",
+    "sistema": [],
+    "precio": 25.0,
+    "stock": 30,
+    "color": "claro",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.28.40.png"
+  },
+  {
+    "id": 19,
+    "nombre": "Cargador Hi-Cap M4",
+    "descripcion": "Cargador de alta capacidad para M4.",
+    "marca": "G&G",
+    "sistema": [],
+    "precio": 20.0,
+    "stock": 25,
+    "color": "negro",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.29.47.png"
+  },
+  {
+    "id": 20,
+    "nombre": "Red Dot T1",
+    "descripcion": "Mira de punto rojo tipo T1.",
+    "marca": "Aim-O",
+    "sistema": [],
+    "precio": 55.0,
+    "stock": 9,
+    "color": "negro",
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.30.40.png"
+  }
+]
