@@ -5,7 +5,7 @@
     "description": "Partida nocturna con objetivos por equipos. Uso obligatorio de protecciones faciales y luces IR.",
     "category": "Skirmish",
     "date": "2025-07-12T20:30:00Z",
-    "images": ["https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/delta1.jpg"],
+    "images": ["https://plairsoft.com/campos/airsoft-playground/"],
     "state": "plazas_disponibles",
     "maxPlayers": 40,
     "registered": 18,
@@ -34,7 +34,7 @@
     "rentalAvailable": true,
     "rating": 4.9,
     "reviews": 230,
-    "website": "https://reservas.example/as002",
+    "website": "https://plairsoft.com/campos/aventuresbi-airsoft/",
     "location": { "lat": 37.9955, "lng": -1.2102, "address": "Polígono Base Sierra" },
     "favorite": false,
     "organizer": {"name":"Sierra MilSim Org","contact":"info@sierramilsim.org"}
@@ -54,7 +54,7 @@
     "rentalAvailable": false,
     "rating": 4.2,
     "reviews": 12,
-    "website": "https://reservas.example/as003",
+    "website": "https://plairsoft.com/campos/punisher-rangers-airsoft/",
     "location": { "lat": 38.0100, "lng": -1.1900, "address": "Polígono Zona Bravo" },
     "favorite": false,
     "organizer": {"name":"Bravo Training","contact":"training@bravo.example"}
@@ -74,7 +74,7 @@
     "rentalAvailable": true,
     "rating": 4.7,
     "reviews": 60,
-    "website": "https://reservas.example/as004",
+    "website": "https://plairsoft.com/campos/warzone-airsoft-indoor/",
     "location": { "lat": 37.9800, "lng": -1.2300, "address": "Zona Recreo 4" },
     "favorite": false,
     "organizer": {"name":"Rescate Team","contact":"rescate@team.example"}
@@ -94,7 +94,7 @@
     "rentalAvailable": false,
     "rating": 4.4,
     "reviews": 22,
-    "website": "https://reservas.example/as005",
+    "website": "https://plairsoft.com/campos/checkpoint-151/",
     "location": { "lat": 38.0200, "lng": -1.1800, "address": "Parque Junior" },
     "favorite": false,
     "organizer": {"name":"Junior Airsoft","contact":"junior@airsoft.example"}
@@ -114,7 +114,7 @@
     "rentalAvailable": true,
     "rating": 4.8,
     "reviews": 88,
-    "website": "https://reservas.example/as006",
+    "website": "https://plairsoft.com/campos/nido-de-aguilas-airsoft/",
     "location": { "lat": 37.9600, "lng": -1.1500, "address": "Recinto Solidario" },
     "favorite": false,
     "organizer": {"name":"SolidAir","contact":"contact@solidair.example"}
@@ -134,7 +134,7 @@
     "rentalAvailable": true,
     "rating": 4.5,
     "reviews": 150,
-    "website": "https://reservas.example/as007",
+    "website": "https://plairsoft.com/campos/ocius-park-airsoft/",
     "location": { "lat": 38.0050, "lng": -1.2050, "address": "Estadio Airsoft" },
     "favorite": false,
     "organizer": {"name":"Liga Airsoft","contact":"liga@airsoft.example"}
@@ -154,7 +154,7 @@
     "rentalAvailable": true,
     "rating": 4.3,
     "reviews": 30,
-    "website": "https://reservas.example/as008",
+    "website": "https://plairsoft.com/campos/el-enclave-d9-experiences/",
     "location": { "lat": 37.9750, "lng": -1.2200, "address": "Finca Verde" },
     "favorite": false,
     "organizer": {"name":"Finca Airsoft","contact":"info@finca.example"}
@@ -174,7 +174,7 @@
     "rentalAvailable": true,
     "rating": 4.7,
     "reviews": 110,
-    "website": "https://reservas.example/as009",
+    "website": "https://plairsoft.com/campos/airsoft-winner-alcoi/",
     "location": { "lat": 37.9900, "lng": -1.1700, "address": "Recinto Nitro" },
     "favorite": false,
     "organizer": {"name":"Nitro Events","contact":"contact@nitro.example"}
@@ -194,7 +194,7 @@
     "rentalAvailable": false,
     "rating": 4.9,
     "reviews": 55,
-    "website": "https://reservas.example/as010",
+    "website": "https://plairsoft.com/campos/ecosport-airsoft/",
     "location": { "lat": 38.0150, "lng": -1.1850, "address": "Centro Táctico" },
     "favorite": false,
     "organizer": {"name":"Tactical School","contact":"school@tactical.example"}
@@ -214,7 +214,7 @@
     "rentalAvailable": false,
     "rating": 4.1,
     "reviews": 18,
-    "website": "https://reservas.example/as011",
+    "website": "https://plairsoft.com/campos/navy-7-airsoft/",
     "location": { "lat": 37.9850, "lng": -1.1650, "address": "Campo Histórico" },
     "favorite": false,
     "organizer": {"name":"Retro Squad","contact":"retro@airsoft.example"}
@@ -234,7 +234,7 @@
     "rentalAvailable": true,
     "rating": 4.6,
     "reviews": 47,
-    "website": "https://reservas.example/as012",
+    "website": "https://plairsoft.com/campos/airsoft-mondego/",
     "location": { "lat": 37.9700, "lng": -1.2100, "address": "Zona 7" },
     "favorite": false,
     "organizer": {"name":"Nitro Nights","contact":"nights@nitro.example"}
@@ -254,7 +254,7 @@
     "rentalAvailable": true,
     "rating": 4.0,
     "reviews": 20,
-    "website": "https://reservas.example/as013",
+    "website": "https://plairsoft.com/campos/airsoft-de-covas/",
     "location": { "lat": 38.0250, "lng": -1.1600, "address": "Campo Abierto" },
     "favorite": false,
     "organizer": {"name":"OpenAirsoft","contact":"open@airsoft.example"}
@@ -274,7 +274,7 @@
     "rentalAvailable": true,
     "rating": 4.5,
     "reviews": 90,
-    "website": "https://reservas.example/as014",
+    "website": "https://plairsoft.com/campos/acu-laracha-airsoft/",
     "location": { "lat": 37.9950, "lng": -1.2000, "address": "Estadio Nocturno" },
     "favorite": false,
     "organizer": {"name":"Noche Liga","contact":"liga@night.example"}
@@ -294,7 +294,7 @@
     "rentalAvailable": false,
     "rating": 4.8,
     "reviews": 36,
-    "website": "https://reservas.example/as015",
+    "website": "https://plairsoft.com/campos/ecat-airsoft/",
     "location": { "lat": 38.0120, "lng": -1.1920, "address": "Sala CQB" },
     "favorite": false,
     "organizer": {"name":"CQB Masters","contact":"cqb@masters.example"}
@@ -314,7 +314,7 @@
     "rentalAvailable": true,
     "rating": 4.0,
     "reviews": 10,
-    "website": "https://reservas.example/as016",
+    "website": "https://plairsoft.com/campos/asociacion-illice-augusta-airsoft/",
     "location": { "lat": 38.0000, "lng": -1.2100, "address": "Campo Norte" },
     "favorite": false,
     "organizer": {"name":"Friendly Airsoft","contact":"friendly@airsoft.example"}
@@ -334,7 +334,7 @@
     "rentalAvailable": false,
     "rating": 4.6,
     "reviews": 27,
-    "website": "https://reservas.example/as017",
+    "website": "https://plairsoft.com/campos/pentagon-airsoft-camp/",
     "location": { "lat": 37.9650, "lng": -1.1400, "address": "Bosque Sur" },
     "favorite": false,
     "organizer": {"name":"Sur Survival","contact":"sur@survival.example"}
@@ -354,7 +354,7 @@
     "rentalAvailable": true,
     "rating": 4.4,
     "reviews": 33,
-    "website": "https://reservas.example/as018",
+    "website": "https://plairsoft.com/campos/comrades-airsoft/",
     "location": { "lat": 37.9755, "lng": -1.1950, "address": "Paraje Apocalipsis" },
     "favorite": false,
     "organizer": {"name":"Theme Events","contact":"theme@events.example"}
@@ -374,7 +374,7 @@
     "rentalAvailable": false,
     "rating": 4.3,
     "reviews": 14,
-    "website": "https://reservas.example/as019",
+    "website": "https://plairsoft.com/campos/zona-zero-adventure/",
     "location": { "lat": 37.9805, "lng": -1.1750, "address": "Zona Entreno" },
     "favorite": false,
     "organizer": {"name":"Night Training","contact":"night@training.example"}
@@ -394,7 +394,7 @@
     "rentalAvailable": true,
     "rating": 4.2,
     "reviews": 8,
-    "website": "https://reservas.example/as020",
+    "website": "https://plairsoft.com/provincia/almeria/",
     "location": { "lat": 37.9880, "lng": -1.1605, "address": "Recinto Luz y Sombras" },
     "favorite": false,
     "organizer": {"name":"Luz & Sombras","contact":"luz@sombras.example"}
