@@ -8,7 +8,11 @@
     "precio": 220.0,
     "stock": 15,
     "color": "negro",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.01.46.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.01.46.png",
+    "fechaRestock": "2025-12-05",
+    "urlProducto": "https://www.tiendaairsoft.com/rifle-aeg-m4",
+    "latitud": 40.4168,
+    "longitud": -3.7038
   },
   {
     "id": 2,
@@ -19,7 +23,11 @@
     "precio": 200.0,
     "stock": 10,
     "color": "madera",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.04.40.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.04.40.png",
+    "fechaRestock": "2025-12-06",
+    "urlProducto": "https://www.tiendaairsoft.com/rifle-aeg-ak47",
+    "latitud": 41.3874,
+    "longitud": 2.1686
   },
   {
     "id": 3,
@@ -30,7 +38,11 @@
     "precio": 320.0,
     "stock": 6,
     "color": "negro",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.06.11.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.06.11.png",
+    "fechaRestock": "2025-12-07",
+    "urlProducto": "https://www.tiendaairsoft.com/rifle-dmr-sr25",
+    "latitud": 39.4699,
+    "longitud": -0.3763
   },
   {
     "id": 4,
@@ -41,7 +53,11 @@
     "precio": 310.0,
     "stock": 5,
     "color": "negro",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.07.43.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.07.43.png",
+    "fechaRestock": "2025-12-08",
+    "urlProducto": "https://www.tiendaairsoft.com/rifle-hibrido-m16",
+    "latitud": 37.3891,
+    "longitud": -5.9845
   },
   {
     "id": 5,
@@ -52,7 +68,11 @@
     "precio": 150.0,
     "stock": 10,
     "color": "tna",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.09.03.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.09.03.png",
+    "fechaRestock": "2025-12-09",
+    "urlProducto": "https://www.tiendaairsoft.com/pistola-gbb-glock17",
+    "latitud": 43.2630,
+    "longitud": -2.9350
   },
   {
     "id": 6,
@@ -63,7 +83,11 @@
     "precio": 140.0,
     "stock": 8,
     "color": "negro",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.12.41.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.12.41.png",
+    "fechaRestock": "2025-12-10",
+    "urlProducto": "https://www.tiendaairsoft.com/pistola-1911",
+    "latitud": 41.6488,
+    "longitud": -0.8891
   },
   {
     "id": 7,
@@ -74,7 +98,11 @@
     "precio": 135.0,
     "stock": 9,
     "color": "arena",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.13.52.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.13.52.png",
+    "fechaRestock": "2025-12-11",
+    "urlProducto": "https://www.tiendaairsoft.com/pistola-cz-p09",
+    "latitud": 36.7213,
+    "longitud": -4.4214
   },
   {
     "id": 8,
@@ -85,7 +113,11 @@
     "precio": 160.0,
     "stock": 4,
     "color": "cromo",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.16.19.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.16.19.png",
+    "fechaRestock": "2025-12-12",
+    "urlProducto": "https://www.tiendaairsoft.com/revolver-co2-357",
+    "latitud": 37.9922,
+    "longitud": -1.1307
   },
   {
     "id": 9,
@@ -96,7 +128,11 @@
     "precio": 180.0,
     "stock": 7,
     "color": "verde",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.17.40.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.17.40.png",
+    "fechaRestock": "2025-12-13",
+    "urlProducto": "https://www.tiendaairsoft.com/francotirador-l96",
+    "latitud": 38.3452,
+    "longitud": -0.4810
   },
   {
     "id": 10,
@@ -107,7 +143,11 @@
     "precio": 190.0,
     "stock": 6,
     "color": "negro",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.20.49.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.20.49.png",
+    "fechaRestock": "2025-12-14",
+    "urlProducto": "https://www.tiendaairsoft.com/francotirador-m24",
+    "latitud": 41.6523,
+    "longitud": -4.7245
   },
   {
     "id": 11,
@@ -118,7 +158,11 @@
     "precio": 130.0,
     "stock": 12,
     "color": "negro",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.19.13.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.19.13.png",
+    "fechaRestock": "2025-12-15",
+    "urlProducto": "https://www.tiendaairsoft.com/escopeta-pump-action",
+    "latitud": 37.8882,
+    "longitud": -4.7794
   },
   {
     "id": 12,
@@ -129,7 +173,11 @@
     "precio": 110.0,
     "stock": 10,
     "color": "tan",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.22.18.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.22.18.png",
+    "fechaRestock": "2025-12-16",
+    "urlProducto": "https://www.tiendaairsoft.com/escopeta-trishot",
+    "latitud": 42.2406,
+    "longitud": -8.7207
   },
   {
     "id": 13,
@@ -140,7 +188,11 @@
     "precio": 80.0,
     "stock": 20,
     "color": "coyote",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.23.25.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.23.25.png",
+    "fechaRestock": "2025-12-17",
+    "urlProducto": "https://www.tiendaairsoft.com/chaleco-plate-carrier",
+    "latitud": 43.5322,
+    "longitud": -5.6611
   },
   {
     "id": 14,
@@ -151,7 +203,11 @@
     "precio": 60.0,
     "stock": 18,
     "color": "multicam",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.24.25.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.24.25.png",
+    "fechaRestock": "2025-12-18",
+    "urlProducto": "https://www.tiendaairsoft.com/chaleco-chest-rig",
+    "latitud": 40.9701,
+    "longitud": -5.6635
   },
   {
     "id": 15,
@@ -162,7 +218,11 @@
     "precio": 95.0,
     "stock": 14,
     "color": "multicam",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.25.42.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.25.42.png",
+    "fechaRestock": "2025-12-19",
+    "urlProducto": "https://www.tiendaairsoft.com/uniforme-multicam",
+    "latitud": 37.1773,
+    "longitud": -3.5986
   },
   {
     "id": 16,
@@ -173,7 +233,11 @@
     "precio": 70.0,
     "stock": 16,
     "color": "woodland",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.26.39.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.26.39.png",
+    "fechaRestock": "2025-12-20",
+    "urlProducto": "https://www.tiendaairsoft.com/uniforme-woodland",
+    "latitud": 42.8125,
+    "longitud": -1.6458
   },
   {
     "id": 17,
@@ -184,7 +248,11 @@
     "precio": 65.0,
     "stock": 13,
     "color": "negro",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.27.52.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.27.52.png",
+    "fechaRestock": "2025-12-21",
+    "urlProducto": "https://www.tiendaairsoft.com/casco-fast",
+    "latitud": 43.4623,
+    "longitud": -3.8099
   },
   {
     "id": 18,
@@ -195,7 +263,11 @@
     "precio": 25.0,
     "stock": 30,
     "color": "claro",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.28.40.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.28.40.png",
+    "fechaRestock": "2025-12-22",
+    "urlProducto": "https://www.tiendaairsoft.com/gafas-proteccion",
+    "latitud": 42.3439,
+    "longitud": -3.6969
   },
   {
     "id": 19,
@@ -206,7 +278,11 @@
     "precio": 20.0,
     "stock": 25,
     "color": "negro",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.29.47.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.29.47.png",
+    "fechaRestock": "2025-12-23",
+    "urlProducto": "https://www.tiendaairsoft.com/cargador-hicap-m4",
+    "latitud": 39.9864,
+    "longitud": -0.0513
   },
   {
     "id": 20,
@@ -217,6 +293,10 @@
     "precio": 55.0,
     "stock": 9,
     "color": "negro",
-    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.30.40.png"
+    "imagenURL": "https://raw.githubusercontent.com/airsoftiosfinal/airsoft-data/main/Screenshot%202025-11-26%20at%2013.30.40.png",
+    "fechaRestock": "2025-12-24",
+    "urlProducto": "https://www.tiendaairsoft.com/red-dot-t1",
+    "latitud": 42.4627,
+    "longitud": -2.4440
   }
 ]
